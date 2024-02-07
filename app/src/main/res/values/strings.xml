@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_register">Sign in</string>
+    <string name="login_up">Sign up</string>
+    <string name="link_signup"><a style="text-decoration:none" href="#">Sign Up</a></string>
+    <string name="link_signin"><a style="text-decoration:none" href="#">Sign In</a></string>
+</resources>
